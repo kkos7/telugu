@@ -1,0 +1,9 @@
+/*Цвет кнопки*/
+.ec-size .ec-store .form-control--small .form-control__button {
+background: #FFFAFA;
+}
+
+/*Цвет текста*/
+.ec-size .ec-store .form-control--small .form-control__button {
+color: #000000;
+}
