@@ -1,0 +1,19 @@
+/*Цвет кнопки*/
+.ec-size .ec-store .form-control--primary.ec-cart__button--checkout .form-control__button  {
+background-color: #FFFFFF;
+}
+
+/*Цвет кнопки при наведении*/
+.ec-size .ec-store .form-control--primary.ec-cart__button--checkout .form-control__button:hover {
+background-color: #FFFFFF;
+}
+
+/*Цвет текста*/
+.ec-size .ec-store .form-control--primary.ec-cart__button--checkout .form-control__button {
+color: #000000;
+}
+
+/*Цвет текста при наведении*/
+.ec-size .ec-store .form-control--primary.ec-cart__button--checkout .form-control__button:hover {
+color: #000000;
+}
